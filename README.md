@@ -1,4 +1,67 @@
-<p align="center"> <h1>Hi 👋, I'm Ali</h1> <p>A passionate full-stack mobile developer from Pakistan.</p> <p><a href="https://github.com/aliismaildev"><strong>aliismaildev</strong></a></p> </p>
-<h3 align="center">🔭 Current Work</h3> <p align="center"> I’m currently working on <a href="https://m5azn.com"><strong>M5AZN | المخازن الإلكترونية</strong></a> </p> <h3 align="center">🌱 Learning Journey</h3> <p align="center"> - Flutter Advanced Concepts & Ecosystem<br> - Backend Development & APIs<br> - Enterprise Mobility Solutions </p> <h3 align="center">👯 Collaboration</h3> <p align="center">Looking to collaborate</p> <h3 align="center">👨‍💻 Projects & Contributions</h3> <p align="center"> All of my projects are available at: <a href="https://aliismail.mystrikingly.com/"><strong>aliismail</strong></a> </p> <h3 align="center">📝 Writing & Sharing Knowledge</h3> <p align="center"> I regularly write articles on <a href="https://medium.com/@ali.ismail.dev"><strong>Medium</strong></a> </p> <h3 align="center">💬 Expertise</h3> <p align="center"> Development across Android, iOS, Web, and APIs, with expertise in Flutter, Enterprise Mobility, and SaaS product solutions. </p> <h3 align="center">📫 Contact Me</h3> <p align="center"> Email: <a href="mailto:ali.ismail.dev@gmail.com"><strong>ali.ismail.dev@gmail.com</strong></a> </p> <h3 align="center">📄 Professional Experience</h3> <p align="center"> Know about my experiences on <a href="https://www.linkedin.com/in/aiismail/"><strong>LinkedIn</strong></a> </p> <h3 align="center">⚡ Fun Fact</h3> <p align="center">I think I am funny 😂</p>
-<h3 align="center">🛠️ Languages and Tools</h3> <p align="center"> ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![Realm](https://img.shields.io/badge/-Realm-39477F?logo=realm&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?logo=circleci&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white) ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?logo=sketch&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white) </p>
-<h3 align="center">🌐 Connect with Me</h3> <p align="center"> - **GitHub**: <a href="https://github.com/aliismaildev"><strong>aliismaildev</strong></a><br> - **LinkedIn**: <a href="https://www.linkedin.com/in/aiismail/"><strong>aliismail</strong></a><br> - **StackOverflow**: <a href="https://www.linkedin.com/in/aiismail/"><strong>Ali-Ismail</strong></a><br> - **Facebook**: <a href="https://www.facebook.com/ali.ismailbsse021353018vghhhhh/"><strong>ali.ismail</strong></a> </p>
+# Hi 👋, I'm Ali
+
+A passionate full-stack mobile developer from Pakistan..  
+[**aliismaildev**](https://github.com/aliismaildev)
+
+---
+
+### 🔭 Current Work
+- I’m currently working on [**M5AZN | المخازن الإلكترونية**](https://m5azn.com)
+
+### 🌱 Learning Journey
+- Flutter Advanced Concepts & Ecosystem
+- Backend Development & APIs
+- Enterprise Mobility Solutions
+
+### 👯 Collaboration
+- Looking to collaborate
+
+### 👨‍💻 Projects & Contributions
+- All of my projects are available at: [aliismail](https://aliismail.mystrikingly.com/)
+
+### 📝 Writing & Sharing Knowledge
+- I regularly write articles on [Medium](https://medium.com/@ali.ismail.dev)
+
+### 💬 Expertise
+- Development across Android, iOS, Web, and APIs, with expertise in Flutter, Enterprise Mobility, and SaaS product solutions.
+
+### 📫 Contact Me
+- Email: [ali.ismail.dev@gmail.com](mailto:ali.ismail.dev@gmail.com)
+
+### 📄 Professional Experience
+- Know about my experiences on [LinkedIn](https://www.linkedin.com/in/aiismail/)
+
+### ⚡ Fun Fact
+- I think I am funny 😂
+
+---
+
+### 🛠️ Languages and Tools
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) 
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) 
+![iOS](https://img.shields.io/badge/-iOS-000000?logo=apple&logoColor=white) 
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) 
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) 
+![Realm](https://img.shields.io/badge/-Realm-39477F?logo=realm&logoColor=white) 
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) 
+![CircleCI](https://img.shields.io/badge/-CircleCI-343434?logo=circleci&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white) 
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?logo=adobe-xd&logoColor=white) 
+![Sketch](https://img.shields.io/badge/-Sketch-F7B500?logo=sketch&logoColor=white) 
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+
+---
+
+### 🌐 Connect with Me
+
+- **GitHub**: [aliismaildev](https://github.com/aliismaildev)
+- **LinkedIn**: [aliismail](https://www.linkedin.com/in/aiismail/)
+- **StackOverflow**: [Ali-Ismail](https://www.linkedin.com/in/aiismail/)
+- **Facebook**: [ali.ismail](https://www.facebook.com/ali.ismailbsse021353018vghhhhh/)
