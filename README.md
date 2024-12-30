@@ -1,33 +1,35 @@
 # Hi 👋, I'm Ali
 
-A passionate mobile developer with over 5 years of experience in Flutter, Android, iOS, and PHP frameworks (Caravel, CodeIgniter, and Yii).  
+A passionate full-stack mobile developer from Pakistan..  
 [**aliismaildev**](https://github.com/aliismaildev)
 
 ---
 
 ### 🔭 Current Work
-- I’m currently working on [**M5AZN**](https://m5azn.com)
+- I’m currently working on [**M5AZN | المخازن الإلكترونية**](https://m5azn.com)
 
 ### 🌱 Learning Journey
-- Jetpack Compose & Enterprise Mobility
+- Flutter Advanced Concepts & Ecosystem
+- Backend Development & APIs
+- Enterprise Mobility Solutions
 
 ### 👯 Collaboration
-- Looking to collaborate on **Flogs**
+- Looking to collaborate
 
 ### 👨‍💻 Projects & Contributions
-- All of my projects are available at: [zubairehman.surge.sh](http://zubairehman.surge.sh/#/)
+- All of my projects are available at: [aliismail](https://aliismail.mystrikingly.com/)
 
 ### 📝 Writing & Sharing Knowledge
-- I regularly write articles on [Medium](https://medium.com/@zubairehman)
+- I regularly write articles on [Medium](https://medium.com/@ali.ismail.dev)
 
 ### 💬 Expertise
-- Android, Flutter, Enterprise Mobility, and SaaS product development
+- Development across Android, iOS, Web, and APIs, with expertise in Flutter, Enterprise Mobility, and SaaS product solutions.
 
 ### 📫 Contact Me
-- Email: [zubairehman.work@gmail.com](mailto:zubairehman.work@gmail.com)
+- Email: [ali.ismail.dev@gmail.com](mailto:ali.ismail.dev@gmail.com)
 
 ### 📄 Professional Experience
-- Know about my experiences on [LinkedIn](https://www.linkedin.com/in/zubairehman/)
+- Know about my experiences on [LinkedIn](https://www.linkedin.com/in/aiismail/)
 
 ### ⚡ Fun Fact
 - I think I am funny 😂
